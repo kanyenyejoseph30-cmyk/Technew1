@@ -1,0 +1,6 @@
+{
+  "name": "Blanche Élégance - Boutique de Mode",
+  "description": "Boutique en ligne haut de gamme avec catalogue de vêtements chic, paiement eMoney (M-Pesa, Orange, Airtel), gestion des stocks en temps réel, QR Code de retrait, espace client, espace livreur avec scanner et espace gérant sécurisé (0991018186).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
